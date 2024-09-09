@@ -1,4 +1,4 @@
-Monopoly réalisé par Lougani Faouzi(faouzi.lougani@hotmail.com) et Quentin Guardia(qguardia66@gmail.com)
+Monopoly réalisé par Lougani Faouzi(faouzi.lougani@hotmail.com) et Quentin Guardia(quentin.guardia@protonmail.com)
 
 Règles de jeux usuelles pour un Monopoly.
 
